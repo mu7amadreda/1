@@ -1,0 +1,26 @@
+.ghosticon{
+    color: #ffffff99;
+    font-size: 26px;
+    margin-right: 2px;
+    margin-left: 10px;
+}
+.cardsection{
+    background: linear-gradient(rgba(0, 0, 0, 0.402), rgba(0, 0, 0, 0.58)),url(../img/33.jpg);
+    background-size: cover;
+}
+.card-body{
+    height: 150px;
+}
+.cardtopimg{
+    background-size: cover;
+    height: 202px;
+}
+.formsection{
+    background-image: url(../img/pexels-mitja-juraja-970517.jpg);
+    background-size: cover;
+    background-position: center;
+}
+.formsection input{
+    
+    background: transparent;
+}
